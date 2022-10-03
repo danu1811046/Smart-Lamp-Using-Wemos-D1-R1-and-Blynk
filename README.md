@@ -6,3 +6,12 @@ Smart Lamp is my IoT project using Blynk and WeMos D1 R1 to control a 4-channel 
 
 - BlynkSimpleEsp8266.h
 - ESP8266WiFi.h
+
+# Components
+- WeMos D1 R1
+- 4-Channels Relay Module
+- Blynk App on your Smartphone
+- Male/Female Jumper Wires
+- Lamps
+- Wires
+
