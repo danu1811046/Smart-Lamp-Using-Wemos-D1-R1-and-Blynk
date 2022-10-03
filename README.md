@@ -1,1 +1,1 @@
-# Smart-Lamp-Using-Wemos-D1-R1-and-Blynk
+# Smart Lamp Using Wemos D1 R1 and Blynk
